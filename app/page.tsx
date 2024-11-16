@@ -145,9 +145,12 @@ export default function Home() {
                 src="/logo_white.png"
                 className="mx-auto h-15 w-auto"
             />
-            <h1 className="text-balance text-5xl font-semibold tracking-tight text-slate-200 sm:text-7xl">
+            <h1 className="text-balance text-5xl font-bold tracking-tight text-slate-200 sm:text-7xl">
               Kaching 2.0
             </h1>
+            <h2 className="text-balance text-3xl font-semibold tracking-tight text-slate-200 sm:text-5xl">
+              Web3 Money Tracker
+            </h2>
             <p className="mt-8 text-pretty text-lg font-medium text-gray-400 sm:text-xl/8">
             A decentralized tool that helps you keep track of your crypto transactions. It’s built for privacy and transparency, giving you control over your financial data while making it easy to organize and review your activity in the Web3 world.
             </p>
